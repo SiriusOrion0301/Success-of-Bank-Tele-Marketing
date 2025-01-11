@@ -11,11 +11,11 @@ This repository contains code for predicting the success of bank telemarketing c
 ### Local Server or Cloud VM
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SiriusOrion0301/Succes-of-Bank-Tele-Marketing.git
+   git clone https://github.com/SiriusOrion0301/Succes-of-Bank-Tele-Marketing-using-ML.git
    ```
 2. Navigate to the repository:
    ```bash
-   cd Success-of-Tele-Marketing
+   cd Success-of-Tele-Marketing-using-ML
    ```
 3. Open the colab in your preferred environment (e.g., Jupyter Notebook).
 4. Run the notebook. The data will be downloaded automatically, and the code will execute smoothly without any additional configuration.
